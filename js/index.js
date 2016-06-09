@@ -17,4 +17,8 @@ $(function(){
     // 如果需要滚动条
     scrollbar: '.swiper-scrollbar',
   })  
+  var inner = $('.header-inner');
+  if(inner.height){
+    
+  }
 })
